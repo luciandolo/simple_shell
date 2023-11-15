@@ -1,1 +1,1 @@
-this is a readme
+simple shell
